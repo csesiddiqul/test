@@ -1,0 +1,9 @@
+/* globalStyles.css */
+
+/* Add your left side styling here */
+.leftSide {
+    display: inline-block;
+    vertical-align: top;
+    padding-right: 10px; /* Adjust as needed */
+}
+
